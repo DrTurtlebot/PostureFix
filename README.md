@@ -5,7 +5,7 @@
 
 **PostureFix** is a Python-based application designed to help users maintain good posture while working at their desks. It uses a webcam to monitor posture, alerting users when they slouch or adopt bad posture habits. The program is customizable, allowing users to adjust sensitivity thresholds, alert methods, and more, making it a versatile tool for ergonomic improvement.
 
-![PostureFix in action](https://temp)  <!-- Update with an actual image link -->
+![PostureFix in action](githubfiles/PostureFix.png)  <!-- Update with an actual image link -->
 
 ---
 
